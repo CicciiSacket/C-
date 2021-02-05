@@ -17,7 +17,7 @@ namespace Swith_GoTo
                 case 0:
                     Console.WriteLine("Hai scelto saluto");
                     goto default; //per spostarsi in un altro caso dello switch, in questo caso il case default
-                    break;
+                    // break;
                 case 1:
                     Console.WriteLine("Hai scelto somma, metti due numeri");
                     int n1 = Convert.ToInt32(Console.ReadLine());
