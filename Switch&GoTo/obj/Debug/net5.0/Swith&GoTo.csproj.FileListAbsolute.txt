@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.AssemblyInfo.cs
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/Swith&GoTo.deps.json
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/Swith&GoTo.runtimeconfig.json
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/Swith&GoTo.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/Swith&GoTo.dll
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/ref/Swith&GoTo.dll
+/Users/studente/Desktop/C#/Swith&GoTo/bin/Debug/net5.0/Swith&GoTo.pdb
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.dll
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/ref/Swith&GoTo.dll
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.pdb
+/Users/studente/Desktop/C#/Swith&GoTo/obj/Debug/net5.0/Swith&GoTo.genruntimeconfig.cache

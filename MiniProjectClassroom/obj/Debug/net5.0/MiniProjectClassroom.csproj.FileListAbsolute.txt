@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.AssemblyInfo.cs
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/MiniProjectClassroom.deps.json
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/MiniProjectClassroom.runtimeconfig.json
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/MiniProjectClassroom.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/MiniProjectClassroom.dll
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/ref/MiniProjectClassroom.dll
+/Users/studente/Desktop/C#/MiniProjectClassroom/bin/Debug/net5.0/MiniProjectClassroom.pdb
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.dll
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/ref/MiniProjectClassroom.dll
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.pdb
+/Users/studente/Desktop/C#/MiniProjectClassroom/obj/Debug/net5.0/MiniProjectClassroom.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.AssemblyInfo.cs
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/WorkWithNumber.deps.json
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/WorkWithNumber.runtimeconfig.json
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/WorkWithNumber.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/WorkWithNumber.dll
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/ref/WorkWithNumber.dll
+/Users/studente/Desktop/C#/WorkWithNumber/bin/Debug/net5.0/WorkWithNumber.pdb
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.dll
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/ref/WorkWithNumber.dll
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.pdb
+/Users/studente/Desktop/C#/WorkWithNumber/obj/Debug/net5.0/WorkWithNumber.genruntimeconfig.cache
