@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/IstruzioniSelezione.deps.json
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/IstruzioniSelezione.runtimeconfig.json
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/IstruzioniSelezione.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/IstruzioniSelezione.dll
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/ref/IstruzioniSelezione.dll
+/Users/studente/Desktop/C#/IstruzioniSelezione/bin/Debug/net5.0/IstruzioniSelezione.pdb
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.AssemblyInfo.cs
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.dll
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/ref/IstruzioniSelezione.dll
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.pdb
+/Users/studente/Desktop/C#/IstruzioniSelezione/obj/Debug/net5.0/IstruzioniSelezione.genruntimeconfig.cache

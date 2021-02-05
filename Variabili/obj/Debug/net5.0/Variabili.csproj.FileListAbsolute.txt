@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/Variabili.deps.json
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/Variabili.runtimeconfig.json
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/Variabili.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/Variabili.dll
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/ref/Variabili.dll
+/Users/studente/Desktop/C#/Variabili/bin/Debug/net5.0/Variabili.pdb
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.AssemblyInfo.cs
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.dll
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/ref/Variabili.dll
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.pdb
+/Users/studente/Desktop/C#/Variabili/obj/Debug/net5.0/Variabili.genruntimeconfig.cache

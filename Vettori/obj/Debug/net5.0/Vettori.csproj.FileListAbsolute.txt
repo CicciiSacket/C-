@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/Vettori.deps.json
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/Vettori.runtimeconfig.json
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/Vettori.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/Vettori.dll
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/ref/Vettori.dll
+/Users/studente/Desktop/C#/Vettori/bin/Debug/net5.0/Vettori.pdb
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.AssemblyInfo.cs
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.dll
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/ref/Vettori.dll
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.pdb
+/Users/studente/Desktop/C#/Vettori/obj/Debug/net5.0/Vettori.genruntimeconfig.cache

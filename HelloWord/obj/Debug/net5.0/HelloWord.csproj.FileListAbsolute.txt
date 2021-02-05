@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/HelloWord.deps.json
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/HelloWord.runtimeconfig.json
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/HelloWord.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/HelloWord.dll
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/ref/HelloWord.dll
+/Users/studente/Desktop/C#/HelloWord/bin/Debug/net5.0/HelloWord.pdb
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.AssemblyInfo.cs
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.dll
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/ref/HelloWord.dll
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.pdb
+/Users/studente/Desktop/C#/HelloWord/obj/Debug/net5.0/HelloWord.genruntimeconfig.cache
