@@ -20,3 +20,17 @@ namespace IstruzioniSelezione
         }
     }
 }
+
+//TRY CATCH 
+// L' tryistruzione consente di definire un blocco di codice da testare per gli errori durante l'esecuzione.
+// L' catchistruzione consente di definire un blocco di codice da eseguire, se si verifica un errore nel blocco try.
+// Le parole chiave trye catchsono disponibili in coppia:
+try
+{
+  int[] myNumbers = {1, 2, 3};
+  Console.WriteLine(myNumbers[10]);
+}
+catch (Exception e)
+{
+  Console.WriteLine("Something went wrong.");
+}

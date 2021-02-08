@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfo.cs
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/Ereditarietà.deps.json
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.json
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/Ereditarietà.dll
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/ref/Ereditarietà.dll
+/Users/studente/Desktop/C#/OOP/Ereditarietà/bin/Debug/net5.0/Ereditarietà.pdb
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.dll
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/ref/Ereditarietà.dll
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.pdb
+/Users/studente/Desktop/C#/OOP/Ereditarietà/obj/Debug/net5.0/Ereditarietà.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/OOP.deps.json
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/OOP.runtimeconfig.json
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/OOP.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/OOP.dll
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/ref/OOP.dll
+/Users/studente/Desktop/C#/OOP/bin/Debug/net5.0/OOP.pdb
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.AssemblyInfo.cs
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.dll
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/ref/OOP.dll
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.pdb
+/Users/studente/Desktop/C#/OOP/obj/Debug/net5.0/OOP.genruntimeconfig.cache

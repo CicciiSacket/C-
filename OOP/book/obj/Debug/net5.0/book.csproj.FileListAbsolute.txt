@@ -1,0 +1,15 @@
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.csprojAssemblyReference.cache
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.AssemblyInfoInputs.cache
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.AssemblyInfo.cs
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.csproj.CoreCompileInputs.cache
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/book.deps.json
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/book.runtimeconfig.json
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/book.runtimeconfig.dev.json
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/book.dll
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/ref/book.dll
+/Users/studente/Desktop/C#/OOP/book/bin/Debug/net5.0/book.pdb
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.dll
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/ref/book.dll
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.pdb
+/Users/studente/Desktop/C#/OOP/book/obj/Debug/net5.0/book.genruntimeconfig.cache
